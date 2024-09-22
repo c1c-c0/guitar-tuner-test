@@ -1,0 +1,10 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+#note-display {
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 20px;
+}
